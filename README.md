@@ -1,5 +1,7 @@
 ## Hi there 👋
-<img width="805" height="775" alt="commands" src="https://github.com/user-attachments/assets/72f2236f-fade-45b1-8113-53fc0e30911e" />
+
+<img width="757" height="302" alt="Wildcards" src="https://github.com/user-attachments/assets/943de4ba-308c-412f-b6d2-637024c012ef" />
+
 
 My name is Dwight Crowell, and I a beginning my journey to become a computer programmer!
 

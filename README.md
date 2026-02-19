@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**dcrowell1-seneca/dcrowell1-seneca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dwight Crowell, and I a beginning my journey to become a computer programmer!
 
-Here are some ideas to get you started:
+The languages I am currently tackling are:
+- Python
+- C
+- The Linux Command Line
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To help me learn Github and Git, I am working on the following mini projects
+- A simple card game called "War"
+- A dynamic gaming leaderboard
+
+One of my hobbies which I share with my wife is astrophotography! 🔭  
+We are mainly interested in Deep Sky Astrophotography, but also enjoy planetary.   
+Check out the images and videos we have captured:
+- [Andromeda](https://www.facebook.com/photo/?fbid=25099616359680844&set=a.792006510868501)
+- [The Eagle Nebula](https://www.facebook.com/photo?fbid=25049100471399100&set=pcb.25049133074729173)
+- [Timelapse of the Milky Way](https://www.facebook.com/share/v/1E7wYEUs3p/)

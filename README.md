@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="805" height="775" alt="commands" src="https://github.com/user-attachments/assets/72f2236f-fade-45b1-8113-53fc0e30911e" />
 
 My name is Dwight Crowell, and I a beginning my journey to become a computer programmer!
 

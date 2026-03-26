@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<img width="757" height="302" alt="Wildcards" src="https://github.com/user-attachments/assets/943de4ba-308c-412f-b6d2-637024c012ef" />
-
-
 My name is Dwight Crowell, and I a beginning my journey to become a computer programmer!
 
 The languages I am currently tackling are:
